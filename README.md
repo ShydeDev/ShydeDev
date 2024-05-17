@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShydeDev/](https://github.com/ShydeDev)
 
-- 📫 How to reach me **@shydedev on discord**
+- 📫 How to reach me **@notshyde on discord**
 
 
 <h3 align="left">Languages and Tools:</h3>
