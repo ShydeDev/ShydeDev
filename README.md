@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShydeDev/](https://github.com/ShydeDev/repositories)
+- 👨‍💻 All of my projects are available at [ShydeDev Github Repositories](https://github.com/ShydeDev?tab="repositories")
 
 - 📫 How to reach me **@shydedev on discord**
 
