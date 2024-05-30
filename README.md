@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShydeDev/](https://github.com/ShydeDev)
+- 👨‍💻 All of my projects are available at https://github.com/ShydeDev
 
 - 📫 How to reach me **@notshyde on discord**
 
