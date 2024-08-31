@@ -41,13 +41,13 @@
 <img src="https://camo.githubusercontent.com/75aa77d9823348b78543f3939647a26bd0d66e0f8c91782ab557d8a391b357e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f5376656c74655f4c6f676f2e737667" alt="svelte" width="40" height="40"/> </a> 
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="numpy" width="40" height="40"/> </a> 
+<img src="https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo.png" alt="numpy" width="40" height="40"/> </a> 
 
 <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="40" height="40"/> </a> 
 
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLiZmMOa7nJKl15YVdWyMrEY19RETEDe8mA&s" alt="bun" width="40" height="40"/> </a> 
+<img src="https://media.discordapp.net/attachments/1230524668272967813/1279506162726993981/i6o449c.png?ex=66d4b079&is=66d35ef9&hm=eb4a76a66e6c5b6ab4821dfaf1bd789d2a6137c9f3b68072c445230b985d8b30&=&format=webp&quality=lossless" alt="bun" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Previous Experiences:</h3>
