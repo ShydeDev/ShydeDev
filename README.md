@@ -38,16 +38,16 @@
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt = "js" width = "40" height="40"/> </a>
 
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Svelte_Logo.svg/1024px-Svelte_Logo.svg.png" alt="svelte" width="40" height="40"/> </a> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLXF8VSI5tMlBTfy-9UDvnO6OGMOvgGFz5g&s" alt="svelte" width="40" height="40"/> </a> 
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Numpy_logo_2020.svg/1024px-Numpy_logo_2020.svg.png" alt="numpy" width="40" height="40"/> </a> 
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Numpy_logo_2020.svg/1024px-Numpy_logo_2020.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s)" alt="numpy" width="40" height="40"/> </a> 
 
 <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nodemon_logo.svg/1024px-Nodemon_logo.svg.png" alt="nodemon" width="40" height="40"/> </a> 
+<img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="40" height="40"/> </a> 
 
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
-<img src="https://bun.sh/assets/logo.svg" alt="bun" width="40" height="40"/> </a> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLiZmMOa7nJKl15YVdWyMrEY19RETEDe8mA&s" alt="bun" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Previous Experiences:</h3>
