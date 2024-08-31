@@ -38,7 +38,7 @@
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt = "js" width = "40" height="40"/> </a>
 
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLXF8VSI5tMlBTfy-9UDvnO6OGMOvgGFz5g&s" alt="svelte" width="40" height="40"/> </a> 
+<img src="https://camo.githubusercontent.com/75aa77d9823348b78543f3939647a26bd0d66e0f8c91782ab557d8a391b357e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f5376656c74655f4c6f676f2e737667" alt="svelte" width="40" height="40"/> </a> 
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="numpy" width="40" height="40"/> </a> 
