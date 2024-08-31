@@ -41,7 +41,7 @@
 <img src="https://camo.githubusercontent.com/75aa77d9823348b78543f3939647a26bd0d66e0f8c91782ab557d8a391b357e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f5376656c74655f4c6f676f2e737667" alt="svelte" width="40" height="40"/> </a> 
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo.png" alt="numpy" width="40" height="40"/> </a> 
+<img src="https://media.discordapp.net/attachments/1254882443874271313/1279506375331811328/WG15QwS.png?ex=66d4b0ab&is=66d35f2b&hm=dc40b6f276f2fdeb12dbd46aeab89929d8280439735b33b07bc287974031cb11&=&format=webp&quality=lossless" alt="numpy" width="40" height="40"/> </a> 
 
 <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="40" height="40"/> </a> 
