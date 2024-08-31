@@ -41,7 +41,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLXF8VSI5tMlBTfy-9UDvnO6OGMOvgGFz5g&s" alt="svelte" width="40" height="40"/> </a> 
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Numpy_logo_2020.svg/1024px-Numpy_logo_2020.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s)" alt="numpy" width="40" height="40"/> </a> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="numpy" width="40" height="40"/> </a> 
 
 <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="40" height="40"/> </a> 
