@@ -56,6 +56,6 @@
   <li>Former Developer of ScriptHub for Codex and Wave Roblox</li>
   <li>Former Developer of W-Azure ScriptHub Roblox</li>
   <li>Former Developer of TMR Roblox</li>
-  <li>Former Developer of TSuo Roblox</li>
+  <li>Former Developer of Tsuo Roblox</li>
   <li>Developer for Yerex Predictor BloxFlip</li>
 </ul>
