@@ -37,6 +37,9 @@
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt = "js" width = "40" height="40"/> </a>
 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src ="https://e7.pngegg.com/pngimages/616/528/png-clipart-angularjs-typescript-javascript-vue-js-others-blue-angle-thumbnail.png" alt = "ts" width = "40" height="40"/> </a>
+
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
 <img src="https://banner2.cleanpng.com/20180425/jrw/ave9tlfdy.webp" alt="nodejs" width="40" height="40"/> </a> 
 
