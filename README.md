@@ -3,10 +3,9 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 👨‍💻 All of my projects are available at https://github.com/ShydeDev
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ShydeDev)
 
-- 📫 How to reach me **@notshyde on discord**
-
+- 📫 How to reach me **@notshyde on Discord**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -38,4 +37,25 @@
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt = "js" width = "40" height="40"/> </a>
 
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Svelte_Logo.svg/1024px-Svelte_Logo.svg.png" alt="svelte" width="40" height="40"/> </a> 
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Numpy_logo_2020.svg/1024px-Numpy_logo_2020.svg.png" alt="numpy" width="40" height="40"/> </a> 
+
+<a href="https://nodemon.io/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nodemon_logo.svg/1024px-Nodemon_logo.svg.png" alt="nodemon" width="40" height="40"/> </a> 
+
+<a href="https://bun.sh/" target="_blank" rel="noreferrer">
+<img src="https://bun.sh/assets/logo.svg" alt="bun" width="40" height="40"/> </a> 
 </p>
+
+<h3 align="left">Previous Experiences:</h3>
+
+<ul>
+  <li>Former Developer of ScriptHub for Codex and Wave Roblox</li>
+  <li>Former Developer of W-Azure ScriptHub Roblox</li>
+  <li>Former Developer of TMR Roblox</li>
+  <li>Former Developer of TSuo Roblox</li>
+  <li>Developer for Yerex Predictor BloxFlip</li>
+</ul>
