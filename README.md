@@ -62,7 +62,7 @@
 <img src="https://media.discordapp.net/attachments/1254882443874271313/1279727102899392512/eFIOksS.png?ex=66d57e3d&is=66d42cbd&hm=703ae2d5930f08a80d4941e7855c7aab17f8ccbff2773d7dc7ee7b2ec5c1336f&=&format=webp&quality=lossless" alt="tf" width="40" height="40"/> </a> 
 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-<img src="https://media.discordapp.net/attachments/1254882443874271313/1279727323276644464/sH8CesU.png?ex=66d57e72&is=66d42cf2&hm=78bff43f1fa39069077f4f9dbd3f91b6eb6b04decf9e5a286c0894384868bd4b&=&format=webp&quality=lossless" alt="sklearn" width="55" height="40"/> </a> 
+<img src="https://media.discordapp.net/attachments/1254882443874271313/1279727323276644464/sH8CesU.png?ex=66d57e72&is=66d42cf2&hm=78bff43f1fa39069077f4f9dbd3f91b6eb6b04decf9e5a286c0894384868bd4b&=&format=webp&quality=lossless" alt="sklearn" width="75" height="40"/> </a> 
 
 </p>
 
