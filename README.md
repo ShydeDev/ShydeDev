@@ -56,13 +56,13 @@
 <img src="https://media.discordapp.net/attachments/1254882443874271313/1279506375331811328/WG15QwS.png?ex=66d4b0ab&is=66d35f2b&hm=dc40b6f276f2fdeb12dbd46aeab89929d8280439735b33b07bc287974031cb11&=&format=webp&quality=lossless" alt="numpy" width="40" height="40"/> </a> 
 
 <a href="https://www.npmjs.com/package/dotenv" target="_blank" rel="noreferrer">
-<img src="https://www.npmjs.com/package/dotenv" alt="dotenv" width="40" height="40"/> </a> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaNT3Fi8RMNUpPDk-Zddeo2FTvDN3Sye5AA&s" alt="dotenv" width="40" height="40"/> </a> 
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" alt="tf" width="40" height="40"/> </a> 
+<img src="https://media.discordapp.net/attachments/1254882443874271313/1279727102899392512/eFIOksS.png?ex=66d57e3d&is=66d42cbd&hm=703ae2d5930f08a80d4941e7855c7aab17f8ccbff2773d7dc7ee7b2ec5c1336f&=&format=webp&quality=lossless" alt="tf" width="40" height="40"/> </a> 
 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQUepHxnnIWJ_ptY9-wX6Mj-RIssE39vnevw&s" alt="sklearn" width="40" height="40"/> </a> 
+<img src="https://miro.medium.com/v2/resize:fit:900/1*c7gkx366nMxBuTrt82CjDg.jpeg" alt="sklearn" width="40" height="40"/> </a> 
 
 </p>
 
