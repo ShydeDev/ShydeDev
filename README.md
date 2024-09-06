@@ -59,7 +59,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaNT3Fi8RMNUpPDk-Zddeo2FTvDN3Sye5AA&s" alt="dotenv" width="40" height="40"/> </a> 
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://p7.hiclipart.com/preview/56/909/160/tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-thumbnail.jpg" alt="tf" width="40" height="40"/> </a> 
+<img src="https://w7.pngwing.com/pngs/608/967/png-transparent-tensorflow-machine-learning-cloud-computing-deep-learning-tensor-processing-unit-cloud-computing-text-orange-logo.png" alt="tf" width="40" height="40"/> </a> 
 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
 <img src="https://media.discordapp.net/attachments/1254882443874271313/1279727323276644464/sH8CesU.png?ex=66d57e72&is=66d42cf2&hm=78bff43f1fa39069077f4f9dbd3f91b6eb6b04decf9e5a286c0894384868bd4b&=&format=webp&quality=lossless" alt="sklearn" width="75" height="40"/> </a> 
