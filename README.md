@@ -47,7 +47,7 @@
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="40" height="40"/> </a> 
 
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
-<img src="https://media.discordapp.net/attachments/1230524668272967813/1279506162726993981/i6o449c.png?ex=66d4b079&is=66d35ef9&hm=eb4a76a66e6c5b6ab4821dfaf1bd789d2a6137c9f3b68072c445230b985d8b30&=&format=webp&quality=lossless" alt="bun" width="40" height="40"/> </a>
+<img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" width="40" height="40"/> </a>
 
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
 <img src="https://camo.githubusercontent.com/75aa77d9823348b78543f3939647a26bd0d66e0f8c91782ab557d8a391b357e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f5376656c74655f4c6f676f2e737667" alt="svelte" width="40" height="40"/> </a> 
@@ -59,7 +59,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaNT3Fi8RMNUpPDk-Zddeo2FTvDN3Sye5AA&s" alt="dotenv" width="40" height="40"/> </a> 
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://media.discordapp.net/attachments/1254882443874271313/1279727102899392512/eFIOksS.png?ex=66d57e3d&is=66d42cbd&hm=703ae2d5930f08a80d4941e7855c7aab17f8ccbff2773d7dc7ee7b2ec5c1336f&=&format=webp&quality=lossless" alt="tf" width="40" height="40"/> </a> 
+<img src="https://p7.hiclipart.com/preview/56/909/160/tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-thumbnail.jpg" alt="tf" width="40" height="40"/> </a> 
 
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
 <img src="https://media.discordapp.net/attachments/1254882443874271313/1279727323276644464/sH8CesU.png?ex=66d57e72&is=66d42cf2&hm=78bff43f1fa39069077f4f9dbd3f91b6eb6b04decf9e5a286c0894384868bd4b&=&format=webp&quality=lossless" alt="sklearn" width="75" height="40"/> </a> 
