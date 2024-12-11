@@ -47,22 +47,13 @@
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="40" height="40"/> </a> 
 
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" width="40" height="40"/> </a>
-
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-<img src="https://camo.githubusercontent.com/75aa77d9823348b78543f3939647a26bd0d66e0f8c91782ab557d8a391b357e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f5376656c74655f4c6f676f2e737667" alt="svelte" width="40" height="40"/> </a> 
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://media.discordapp.net/attachments/1254882443874271313/1279506375331811328/WG15QwS.png?ex=66d4b0ab&is=66d35f2b&hm=dc40b6f276f2fdeb12dbd46aeab89929d8280439735b33b07bc287974031cb11&=&format=webp&quality=lossless" alt="numpy" width="40" height="40"/> </a> 
+<img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" width="40" height="40"/> </a> 
 
 <a href="https://www.npmjs.com/package/dotenv" target="_blank" rel="noreferrer">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaNT3Fi8RMNUpPDk-Zddeo2FTvDN3Sye5AA&s" alt="dotenv" width="40" height="40"/> </a> 
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
 <img src="https://logowik.com/content/uploads/images/tensorflow4903.jpg" alt="tf" width="55" height="40"/> </a> 
-
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-<img src="https://media.discordapp.net/attachments/1254882443874271313/1279727323276644464/sH8CesU.png?ex=66d57e72&is=66d42cf2&hm=78bff43f1fa39069077f4f9dbd3f91b6eb6b04decf9e5a286c0894384868bd4b&=&format=webp&quality=lossless" alt="sklearn" width="75" height="40"/> </a> 
 
 </p>
 
