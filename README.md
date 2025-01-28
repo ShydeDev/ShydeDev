@@ -65,5 +65,11 @@
   <li>Former Developer of W-Azure ScriptHub Roblox</li>
   <li>Former Developer of TMR Roblox</li>
   <li>Former Developer of Tsuo Roblox</li>
-  <li>Developer for Yerex Predictor BloxFlip</li>
+  <li>Formor Developer of Yerex Predictor</li>
+</ul>
+
+<h3 align="left">Current Jobs:</h3>
+
+<ul>
+  <li>Developer of new Wave & Codex project "RO-HUB"</li>
 </ul>
