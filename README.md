@@ -72,4 +72,5 @@
 
 <ul>
   <li>Developer of new Wave & Codex project "RO-HUB"</li>
+  <li>Luraph Obfuscator support</li>
 </ul>
