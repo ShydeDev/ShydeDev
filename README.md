@@ -46,9 +46,6 @@
 <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="nodemon" width="40" height="40"/> </a> 
 
-<a href="https://bun.sh/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" width="40" height="40"/> </a> 
-
 <a href="https://www.npmjs.com/package/dotenv" target="_blank" rel="noreferrer">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHaNT3Fi8RMNUpPDk-Zddeo2FTvDN3Sye5AA&s" alt="dotenv" width="40" height="40"/> </a> 
 
