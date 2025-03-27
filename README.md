@@ -60,12 +60,9 @@
 <h3 align="left">Previous Experiences:</h3>
 
 <ul>
-  <li>Former Developer of ScriptHub for Codex and Wave Roblox</li>
   <li>Former Developer of Vision/Rune Executor</li>
   <li>Former Developer of W-Azure ScriptHub Roblox</li>
-  <li>Former Developer of TMR Roblox</li>
-  <li>Former Developer of Tsuo Roblox</li>
-  <li>Formor Developer of Yerex Predictor</li>
+  <li>Former Developer of Yerex Predictor</li>
 </ul>
 
 <h3 align="left">Current Jobs:</h3>
