@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shyde</h1>
 <h3 align="center">A dedicated programmer with a penchant for programming from Poland</h3>
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **Web Developing**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ShydeDev)
 
-- 📫 How to reach me **@notshyde on Discord**
+- 📫 How to reach me **@taylor.dev on Discord**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :3</h3>
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
