@@ -6,11 +6,9 @@
   <a href="https://discord.com/users/@taylor.dev"><img src="https://img.shields.io/badge/Discord-%40taylor.dev-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-        
-<h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
-        <center>
-            <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.</em>
-        </center>
+<center>
+  <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.</em>
+</center>
 
 <h3 align="center">Things i know <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" /></h3>
 
