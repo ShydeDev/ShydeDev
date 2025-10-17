@@ -7,7 +7,7 @@
 </p>
 
 <center>
-  <h3>- I work at https://lura.ph </h3>
+  <h4>- I work at https://lura.ph </h4>
   <em>- I have no special <b>talent</b>, I am only passionately <b>curious</b>.</em>
 </center>
 
